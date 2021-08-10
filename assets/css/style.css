@@ -166,8 +166,8 @@ a:focus
 
     opacity: 1;
     border: solid 2px transparent;
-    border-top-color: #1fb8b2;
-    border-left-color: #1fb8b2;
+    border-top-color: rgb(192,100,38);
+    border-left-color: rgb(192,100,38);
     border-radius: 100%;
 }
 

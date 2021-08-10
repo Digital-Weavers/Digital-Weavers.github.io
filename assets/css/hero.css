@@ -255,7 +255,7 @@
 
 .hero-1 .front-content h1 span
 {
-    color: #1fb8b2;
+    color: rgb(192,100,38);
 }
 
 
@@ -277,7 +277,7 @@
 
 .hero-1 .front-content h2 span
 {
-    color: #1fb8b2;
+    color: rgb(192,100,38);
 }
 
 .hero-1 .front-content p
@@ -711,7 +711,7 @@
     -webkit-transition: .3s ease;
             transition: .3s ease;
 
-    background: #1fb8b2;
+    background: rgb(192,100,38);
 }
 
 
